@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaulPleureur
-- 👀 I’m interested in developement and data science
+- 👀 I am interested in data science and development among others
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on data science projects or games
 - 📫 How to reach me : paul.terrien@reseau.eseo.fr
